@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+h1 {
+  color: black;
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+  background-color: white;
+  width: 50px;
+
+  
+  
+}
+.container1{
+  margin: 5px;
+}
